@@ -27,7 +27,7 @@ The Unified Synthetic Mind is a pioneering artificial intelligence project that 
 ### Installation
 
 1. Clone the Unified Synthetic Mind repository:
-git clone https://github.com/yourusername/unifiedsyntheticmind.git
+git clone . (https://github.com/captainkoopa420/Verdant-Minds.git)
 Copy
 2. Install the required Python packages:
 pip install -r requirements.txt
@@ -67,3 +67,5 @@ Acknowledgements
 We gratefully acknowledge the inspiration and insights drawn from a wide range of disciplines, from quantum physics and complexity science to philosophy of mind and ethics. This project stands on the shoulders of giants across multiple fields of human knowledge.
 Contact
 For questions or inquiries about the Unified Synthetic Mind project, please contact adamswilliam905@gmail.com.
+
+**STILL UNDER CONSTRUCTION**
