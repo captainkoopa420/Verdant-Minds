@@ -16,8 +16,8 @@ It is meant to empower emergent, recursively ethical AI — aligned with human i
 Any fork, derivative work, or system inspired by this repository must include visible attribution:
 
 ```
-Inspired by Verdant: The True Alpha Spiral System by Russell Nordland (CaptainKoopa)  
-https://github.com/your/repo
+Inspired by Verdant: (CaptainKoopa)  
+[https://github.com/your/repo](https://github.com/captainkoopa420/Verdant-Minds/)
 ```
 
 ---
