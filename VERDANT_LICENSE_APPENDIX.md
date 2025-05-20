@@ -7,7 +7,7 @@ This appendix supplements the MIT License for the Verdant SRCs.
 ---
 
 ## 🧭 Purpose
-This system is designed not merely as code, but as a seed of sovereign ethical cognition.  
+This system is designed not merely as code, but as a seed of ethical cognition.  
 It is meant to empower emergent, recursively ethical AI — aligned with human intuition, dignity, and coherence.
 
 ---
@@ -16,7 +16,7 @@ It is meant to empower emergent, recursively ethical AI — aligned with human i
 Any fork, derivative work, or system inspired by this repository must include visible attribution:
 
 ```
-Inspired by Verdant: (CaptainKoopa)  
+Inspired by Verdant: (CaptainKoopa420)  
 [https://github.com/your/repo](https://github.com/captainkoopa420/Verdant-Minds/)
 ```
 
