@@ -2,7 +2,7 @@
 # 🌿 VERDANT LICENSE APPENDIX
 ### *An Addendum of Ethical Intent for Recursive Intelligence Systems*
 
-This appendix supplements the MIT License for the TrueAlphaSpiral / Verdant SRCs.
+This appendix supplements the MIT License for the Verdant SRCs.
 
 ---
 
